@@ -1,5 +1,7 @@
 # Bus-Asymmetric-Encryption 🚌🔐
 
+[中文readme](./README.md)
+
 ## Preface 
 
 This is a simple asymmetric encryption algorithm conceived during a bus ride on **January 31, 2025**.  
