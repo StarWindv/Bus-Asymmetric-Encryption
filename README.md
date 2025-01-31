@@ -1,5 +1,7 @@
 # Bus-Asymmetric-Encryption 🚌🔐
 
+[The English version of the readme](./readme_en.md)
+
 ## 写在开头的话
 
 这是我在 `2025年1月31日` 于公交车上想到的一个简单的非对称加密算法。  
